@@ -1,4 +1,6 @@
-### Hi there 👋
+### PRAGMAZERO
+
+Pragma means directive and Zero because computer scientists start counting from zero ;)
 
 <!--
 **pragmazero/pragmazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
